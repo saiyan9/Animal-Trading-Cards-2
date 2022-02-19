@@ -1,0 +1,36 @@
+img {
+  width: 475px;
+  padding: 10px;
+
+}
+body {
+  border: solid; color: black; padding: 2px;
+  background-color: LightGrey;
+  font-family: chalkduster, fantasy;
+  width: 500px;
+}
+p1 {
+  font-style: italic;
+  font-size: 10px;
+}
+h2 {
+  color: red;
+}
+p {
+  color: blue;
+}
+p2 {
+  color: green;
+}
+p3 {
+  color: purple;
+}
+p4 {
+  color: orange;
+}
+.fancybox {
+  border: solid #A9A9A9 2px;
+}
+.info {
+  border: solid #A9A9A9 2px;
+}
