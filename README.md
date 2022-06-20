@@ -8,7 +8,7 @@ A simple web page, with a small collection of animal fact cards. In this project
 * HTML
 * CSS
 
-#Structure
+## Structure
 * Whale Shark.html
 * alligator.html   
 * styleit.css 
